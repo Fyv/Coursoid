@@ -1,13 +1,8 @@
-
-========
-
-An Android App I try to developp for a French start up comming soon.
-
 # Coursoid
 
 ## Une application Android
 
-### Quoi
+### Pourquoi
 Je développe cette application pour une start-up française qui va bientôt se lancer
 
 ### Quand
