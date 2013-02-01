@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.coursoid.main"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.coursoid.main.LoginActivity"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="adjustResize|stateVisible" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.coursoid.main.Coursoid_"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.coursoid.main.Home"
+            android:label="@string/title_activity_home" >
+        </activity>
+        <activity
+            android:name="com.coursoid.main.AProposActivity"
+            android:label="@string/title_activity_apropos"
+            android:parentActivityName="com.coursoid.main.Home" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.coursoid.main.Home" />
+        </activity>
+        <activity
+            android:name="com.coursoid.main.SearchActivity"
+            android:label="@string/title_activity_search" >
+        </activity>
+        <activity
+            android:name="com.coursoid.main.RecettesActivity"
+            android:label="@string/title_activity_recettes" >
+        </activity>
+        <activity
+            android:name="com.coursoid.main.PlacardActivity"
+            android:label="@string/title_activity_placard" >
+        </activity>
+    </application>
+
+</manifest>

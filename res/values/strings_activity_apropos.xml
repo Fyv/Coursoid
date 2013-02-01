@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="apropos_title_0">À propos</string>
+    <string name="apropos_content_0"><strong>FaisTesCourses</strong> n\'est pas son nom définitif et il pourra être changé. Ce site est seulement <b>en version bétâ 1.4</b> et nous demande un travail monstre. Nous espérons très vite finaliser chaque fonctionnalité pour te les proposer.Si tu découvres un <b>bug</b>, merci à toi de nous les indiquer ici. Si tu as des <b>idées</b> pour améliorer <b>FaisTesCourses.fr</b>, fais-nous en part ici.	Pour l\'instant le design est simple et n\'est pas terminé.</string>
+    <string name="apropos_title_1">Comment ça marche</string>
+    <string name="apropos_content_1">Ce site Web "FaisTesCourses.fr" (version 1.4) est destiné à rendre ta cuisine plus facile chaque jour en proposant des fonctionnalités de gestion culinaire.</string>
+    <string name="apropos_title_2">Inscription</string>
+    <string name="apropos_content_2">L\'inscription est obligatoire pour bénéficier de sa panoplie de fonctionnalités : planifier ta cuisine hebdomadaire, classer tes recettes dans un cahier et gérer ton stock "Le Placard". D\'autres fonctionnalités verront le jour plus tard et ne manqueront pas de t\'étonner.</string>
+    <string name="apropos_title_3">Le cahier des recettes</string>
+    <string name="apropos_content_3">Chaque membre a la possiblité de créer et classer une fiche recette dans son "Cahier de recettes". Chaque membre peut aussi ajouter les recettes des autres membres. C\'est une fonctionnalité très importante car c\'est le Cahier qui t\'indique si une recette est faisable ou pas.<br /> Cela permet de créer ensuite ton "Planning culinaire".</string>
+    <string name="apropos_title_4">Le placard</string>
+    <string name="apropos_content_4">Cette fonctionnalité est la plus puissante du site, elle permet de gérer ton stock alimentaire et de t\'indiquer la possiblité de réalisation d\'une recette en se basant sur ton "Cahier de recettes".</string>
+    <string name="apropos_title_5">Le planning</string>
+    <string name="apropos_content_5">"Ton Planning" culinaire se présente sous la forme d\'un calendrier hebdomadaire. Tu pourras ainsi planifier tes repas (petit-déjeuner, déjeuner, dîner et autres évènements tels que les goûter, anniversaires, etc.) sur une semaine. "Le Planning" associé avec "Le Placard" et "Le Cahier de recette" permet de connaître tous les produits ou ingrédients nécessaires pour la semaine et dans le cas contraire de te créer une liste de course dynamiquement.</string>
+    <string name="apropos_title_6">La liste de courses</string>
+    <string name="apropos_content_6">"Ta Liste de Courses" est sans doute la fonctionnalité la plus intéressante et celle qui va te faire gagner du temps. <br />Il ne s\'agit pas d\'une liste de courses banale ! Elle est intelligente ! Elle se remplit au fur et à mesure de tes besoins ! Si un produit manque ou va manquer ou qu\'il n\'y en a pas assez dans ton "Placard", le produit va automatiquement être ajouté dans ta "Liste de Courses" avec la quantité adéquate ! C\'est pas beau ça ? <br />Une fois ta "Liste de Courses" complète (et les courses réalisées, hé oui, il faut quand même te déplacer pour faire tes courses&#8230;) tu peux valider ta "Liste de Courses" et tous les produits seront automatiquement ajoutés à ton "Placard" !</string>
+    <string name="apropos_title_7">Le profil</string>
+    <string name="apropos_content_7">"Le Profil" permet d\'affiner tes préférences culinaires, tes habitudes alimentaires et d\'éventuelles allergies à certains produits. <br />"Ton Profil" est sans doute la partie la moins sympa à remplir au début mais une fois réalisée, elle permet d\'affiner tes recherches automatiquement (pas besoin de préciser un filtre lors de la recherche par exemple) et te suit dans ton "Planning".</string>
+
+</resources>
